@@ -1,2 +1,1 @@
-# RealEstate
-This is my RealEstate Application in Reactjs
+# React Real Estate UI Design
